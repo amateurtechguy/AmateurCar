@@ -15,7 +15,5 @@ And it also uses arduino as the brain of the whole car.
 - 1x Arduino module (any type)
 - 1x HC06
 - 1x L298N module
-- 1x battery holder
-- 1x on/off switch
 - 30x-40x wires
 
