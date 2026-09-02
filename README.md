@@ -17,3 +17,7 @@ And it also uses arduino as the brain of the whole car.
 - 1x L298N module
 - 30x-40x wires
 
+# Schematic: 
+
+<img width="418" height="332" alt="Screenshot 2026-09-02 171804" src="https://github.com/user-attachments/assets/9b083997-b982-45c3-bee4-2489a2e5423c" />
+
