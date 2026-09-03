@@ -2,8 +2,10 @@
 AmateurCar is a mini car that can be controlled via bluetooth, because of its HC06.
 It uses an L298N driver module to control the drivers.
 And it also uses arduino as the brain of the whole car.
+Before you ask, the battery holder is under the second car chasis.
 
-<img width="500" height="356" alt="arduino carr" src="https://github.com/user-attachments/assets/1bde271f-41f6-4a3e-a445-a5e78d178abe" />
+<img width="496" height="329" alt="Screenshot 2026-09-03 142143" src="https://github.com/user-attachments/assets/99754bda-396f-4a84-9207-1195c524d2ee" />
+
 
 # Parts needed: 
 
